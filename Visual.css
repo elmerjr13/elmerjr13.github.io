@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+}
+  
+.Contenedor{
+    background-color: rgb(98, 191, 225);
+    width: 100vw;
+    height: 100vh;
+    text-align: center;
+}
+
+p{
+    font-size: xx-large;
+    padding: 15%;
+}
+
+button{
+    font-size: xx-large;
+    padding: 0.80em;
+}
+
+#YesBtn{
+    transform: translate(-100%,0);
+}
+
+#NoBtn{
+    position: absolute;
+}
